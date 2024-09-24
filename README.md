@@ -54,7 +54,7 @@ Through the development of this app, I have honed skills in:
 
 This project showcases my ability to manage data, extract meaningful insights, and present these insights in a way that supports decision-making. It also reflects my eagerness to learn and apply tools that improve both personal productivity and analytical outcomes.
 
----
+
 
 ### Technologies Used:
 - **Python (Tkinter)** for UI design and functionality.
