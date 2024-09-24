@@ -9,6 +9,9 @@ Designed as a personal productivity tool, this project demonstrates key skills r
 ### 1. Task Categorization & Time Tracking:
 - Tracks sessions under two categories: **Main Task** and **Secondary Task**.
 - Logs and displays total time spent on tasks for the current date, enabling precise data collection for daily productivity analysis.
+  
+![Alt text](image1.png)
+
 
 ### 2. Time Log Analysis & Visualization:
 - Automatically calculates and displays time logged over the past 7, 14, and 30 days.
@@ -16,6 +19,8 @@ Designed as a personal productivity tool, this project demonstrates key skills r
   - **Total time** spent on each task during these periods.
   - **Average task duration** over time, offering quick insights into focus trends and patterns.
 - Demonstrates the ability to gather, manipulate, and present data using visual tools to draw actionable insights.
+
+ ![Alt text](image2.png) 
 
 ### 3. Focus Timer for Gradual Improvement:
 - Implements an analog countdown timer based on the **average focus duration** over the past 7 days, with a 10-minute extension to gradually enhance focus duration.
@@ -28,10 +33,14 @@ Designed as a personal productivity tool, this project demonstrates key skills r
   - Delete the last entry, reset data for the current day, or clear all entries for a fresh start.
 - Supports importing data from Excel files for broader data analysis, demonstrating experience in handling and integrating data from various sources.
 
+![Alt text](image3.png)
+
 ### 5. Floating Timer Window:
 - A **floating window** displays a small analog countdown timer, which users can move and place on top of other applications. 
 - This feature allows users to track their remaining focus time without switching windows or interrupting other work.
 - Enhances user convenience by making the focus timer visible at all times, promoting better focus and time management.
+
+![Alt text](image4.png)
 
 ### 6. Personal Focus Pattern Analysis:
 - The application serves as a data collection tool to analyze personal productivity, enabling the identification of focus patterns and trends over time.
